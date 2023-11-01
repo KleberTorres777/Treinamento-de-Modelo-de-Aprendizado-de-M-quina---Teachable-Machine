@@ -1,0 +1,5 @@
+0 controle
+1 grampeador
+2 urso  ted
+3 cristal
+4 yoda
