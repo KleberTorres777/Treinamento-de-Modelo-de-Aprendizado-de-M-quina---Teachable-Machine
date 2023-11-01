@@ -1,0 +1,1 @@
+# Treinamento-de-Modelo-de-Aprendizado-de-M-quina---Teachable-Machine
